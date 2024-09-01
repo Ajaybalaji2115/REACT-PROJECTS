@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
-Function Day3() {
+
+function Day3() {
   const [butt,setbutt]=useState(false);
     function Toggle()
     {
